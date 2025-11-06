@@ -62,7 +62,25 @@ lib/
    ```bash
    git clone https://github.com/Harshiitmadras/flutter_Weather_app_harsh.git
    cd flutter_Weather_app_harsh
-##Install dependencies
-```bash
-flutter pub get
+2.Install dependencies 
+
+3.Set up OpenWeatherMap API key
+
+4.Create an account → https://openweathermap.org/api
+
+5.Copy your API Key and paste it inside
+
+6.Run the app
+---
+
+##💡 Highlights
+
+🎨 Bold & vibrant Apple-style design — glass cards, gradients, and dynamic animations.
+
+⚡ Optimized for performance — minimal rebuilds and cached assets.
+
+🧭 Fully responsive — adapts beautifully to phones and tablets.
+
+🧩 Hackathon-ready architecture — clean, modular, and easy to extend.
+
 
