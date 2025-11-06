@@ -1,4 +1,4 @@
-# 🌦️ Flutter Weather App — Harsh  
+# 🌦️ Flutter Weather App — Harsh Yadav  
 
 > **A bold, vibrant, and fully-featured Flutter weather forecast application built for the Darwix AI Flutter Intern Hackathon Challenge.**  
 > Get real-time weather updates, forecasts, and a stunning animated UI that adapts to the weather around you.  
