@@ -75,12 +75,12 @@ lib/
 
 ##💡 Highlights
 
-🎨 Bold & vibrant Apple-style design — glass cards, gradients, and dynamic animations.
+🎨 Bold & vibrant Apple-style design glass cards, gradients, and dynamic animations.
 
-⚡ Optimized for performance — minimal rebuilds and cached assets.
+⚡ Optimized for performance minimal rebuilds and cached assets.
 
-🧭 Fully responsive — adapts beautifully to phones and tablets.
+🧭 Fully responsive adapts beautifully to phones and tablets.
 
-🧩 Hackathon-ready architecture — clean, modular, and easy to extend.
+🧩 Hackathon-ready architecture clean, modular, and easy to extend.
 
 
