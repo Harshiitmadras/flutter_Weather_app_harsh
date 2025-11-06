@@ -1,4 +1,4 @@
-# 🌦️ Flutter Weather App — Harsh Yadav  
+# 🌦️ Flutter Weather App: Harsh Yadav  
 
 > **A bold, vibrant, and fully-featured Flutter weather forecast application built for the Darwix AI Flutter Intern Hackathon Challenge.**  
 > Get real-time weather updates, forecasts, and a stunning animated UI that adapts to the weather around you.  
@@ -9,18 +9,18 @@
 
 ### 🧩 Core (Mandatory)
 - 🔍 **City Search** — Search weather by city name with live suggestions and error handling.  
-- 🌡️ **Current Weather Display** — Temperature, humidity, wind speed, “feels like” temperature, weather condition & icons.  
-- 📅 **5-Day Forecast** — Scrollable daily forecast with min/max temperatures and condition icons.  
-- 🖼️ **Clean & Responsive UI** — Modern gradient backgrounds, elegant layout, and smooth transitions.  
-- 💾 **Favorite Cities** — Save, view, and remove favorite locations using `shared_preferences`.
+- 🌡️ **Current Weather Display**: Temperature, humidity, wind speed, “feels like” temperature, weather condition & icons.  
+- 📅 **5-Day Forecast**:Scrollable daily forecast with min/max temperatures and condition icons.  
+- 🖼️ **Clean & Responsive UI**: Modern gradient backgrounds, elegant layout, and smooth transitions.  
+- 💾 **Favorite Cities**: Save, view, and remove favorite locations using `shared_preferences`.
 
 ---
 
 ### 🌟 Bonus (Implemented)
-- 📍 **Current Location (GPS)** — Auto-detects user location and fetches live weather.  
-- 🕒 **Hourly Forecast** — Displays next 12–24 hours of temperature and conditions.  
-- 🌈 **Animated Weather Effects** — Full-screen Lottie animations for sunny, cloudy, rainy, stormy, and snowy scenes.  
-- 🔄 **Unit Conversion** — Toggle between Celsius / Fahrenheit and km/h / mph; preference saved locally.  
+- 📍 **Current Location (GPS)**: Auto-detects user location and fetches live weather.  
+- 🕒 **Hourly Forecast**: Displays next 12–24 hours of temperature and conditions.  
+- 🌈 **Animated Weather Effects**: Full-screen Lottie animations for sunny, cloudy, rainy, stormy, and snowy scenes.  
+- 🔄 **Unit Conversion**: Toggle between Celsius / Fahrenheit and km/h / mph; preference saved locally.  
 
 ---
 
@@ -41,3 +41,28 @@
 ---
 
 ## 🧭 App Structure
+lib/
+├── main.dart
+├── models/
+├── services/ # API, location, preferences
+├── screens/
+│ ├── home_screen.dart
+│ ├── weather_detail_screen.dart
+│ ├── favorites_screen.dart
+├── widgets/
+├── utils/
+├── theme/
+
+
+---
+
+## ⚙️ Setup & Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Harshiitmadras/flutter_Weather_app_harsh.git
+   cd flutter_Weather_app_harsh
+##Install dependencies
+```bash
+flutter pub get
+
